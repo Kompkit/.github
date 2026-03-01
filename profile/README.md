@@ -16,7 +16,7 @@ You learn the API once. You use it everywhere.
 
 ### 🧠 Current Status
 
-**Version:** `v0.3.0-alpha.1`  
+**Version:** `v0.4.0-alpha.0`  
 **Stage:** 🧪 Alpha — APIs may change before stable release. Pin to exact versions in production.  
 **Branches:**
 - `release` → stable versions
